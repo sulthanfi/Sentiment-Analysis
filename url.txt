@@ -1,0 +1,3 @@
+url dataset : https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews
+url drive : https://drive.google.com/drive/folders/1YOQETUWMXVr6SAVRpB00ZCzMjX8SIqcx?usp=sharing
+url huggingface : https://huggingface.co/spaces/fachrytansool/HotelReviewSentiment
